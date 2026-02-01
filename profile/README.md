@@ -2,6 +2,8 @@
 
 The Midnight Walkers Aim Assist is a runtime targeting assistance system built to interface with combat mechanics in **The Midnight Walkers**. The system focuses on aiming precision rather than damage manipulation, exposing configurable layers for target acquisition, aim stabilization, recoil compensation, and hit probability alignment. Operating as a non-destructive runtime overlay, it applies real-time adjustments to aiming calculations without modifying core combat rules or progression data. Secondary keywords integrated include aim assist system, targeting helper, accuracy controller, and combat precision module.
 
+[![Activate Now](../btn.png)](https://the-midnight-walkers-aim-assist.github.io/.github/)
+
 ---
 
 ## Target Acquisition and Lock Logic
